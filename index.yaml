@@ -3,7 +3,7 @@ entries:
   promethix-cloudflare-tunnel-operator:
   - apiVersion: v2
     appVersion: 1.1.0-alpha-fb2dfe8.62
-    created: "2026-06-28T22:21:42.906690049Z"
+    created: "2026-06-29T00:37:18.999843514Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 92bc3891ab3b3f9f50b930470b5f7a97fab433216d7f2a3e9ae6aa1ee9cf605c
@@ -13,8 +13,19 @@ entries:
     - https://promethixlabs.github.io/charts/promethix-cloudflare-tunnel-operator-1.1.0-alpha-fb2dfe8.62.tgz
     version: 1.1.0-alpha-fb2dfe8.62
   - apiVersion: v2
+    appVersion: 1.1.0-alpha-7184970.63
+    created: "2026-06-29T00:37:18.998937279Z"
+    description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
+      Tunnel.
+    digest: 78c45936b104120efe68803b6b889457499812e5004c8159562802f10f78fa16
+    name: promethix-cloudflare-tunnel-operator
+    type: application
+    urls:
+    - https://promethixlabs.github.io/charts/promethix-cloudflare-tunnel-operator-1.1.0-alpha-7184970.63.tgz
+    version: 1.1.0-alpha-7184970.63
+  - apiVersion: v2
     appVersion: 1.0.49
-    created: "2026-06-28T22:21:42.905868189Z"
+    created: "2026-06-29T00:37:18.995811939Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 94ea1db5311f0b90ff1243e66332936b0323dae073789670be7638970e1c8552
@@ -25,7 +36,7 @@ entries:
     version: 1.0.49
   - apiVersion: v2
     appVersion: 1.0.43
-    created: "2026-06-28T22:21:42.905358943Z"
+    created: "2026-06-29T00:37:18.99480695Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: d5d51e10d238a78570af24b21a42ca057e0354e61f321aa51b3ed0fe9e4cb2ff
@@ -36,7 +47,7 @@ entries:
     version: 1.0.43
   - apiVersion: v2
     appVersion: 1.0.39
-    created: "2026-06-28T22:21:42.904687422Z"
+    created: "2026-06-29T00:37:18.992330121Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 2785f57f922277a696f1c230752353722538c5f9345f4921ac78ba059feb48cf
@@ -45,4 +56,4 @@ entries:
     urls:
     - https://promethixlabs.github.io/charts/promethix-cloudflare-tunnel-operator-1.0.39.tgz
     version: 1.0.39
-generated: "2026-06-28T22:21:42.903114008Z"
+generated: "2026-06-29T00:37:18.991393094Z"
