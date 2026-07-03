@@ -3,7 +3,7 @@ entries:
   promethix-cloudflare-tunnel-operator:
   - apiVersion: v2
     appVersion: 1.2.0-alpha-ff10f31.163
-    created: "2026-07-03T17:09:25.403725366Z"
+    created: "2026-07-03T18:11:52.399529775Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: e46f6153759a228f8bbcec6cc1ed315a125764d153e37c80e79538a6474688b8
@@ -14,7 +14,7 @@ entries:
     version: 1.2.0-alpha-ff10f31.163
   - apiVersion: v2
     appVersion: 1.2.0-alpha-e37fd6f.113
-    created: "2026-07-03T17:09:25.402615602Z"
+    created: "2026-07-03T18:11:52.39683018Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: b20a21250c90b0002ae6b3b250543a8b7f025c14d3db622b321a2ced3ddcbf99
@@ -25,7 +25,7 @@ entries:
     version: 1.2.0-alpha-e37fd6f.113
   - apiVersion: v2
     appVersion: 1.2.0-alpha-d73749e.150
-    created: "2026-07-03T17:09:25.401625654Z"
+    created: "2026-07-03T18:11:52.39581579Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 3c362b9d1b67a84583faad51c2ae9ffd88fe12b8d2d546de2c287308bfc2772a
@@ -36,7 +36,7 @@ entries:
     version: 1.2.0-alpha-d73749e.150
   - apiVersion: v2
     appVersion: 1.2.0-alpha-c007371.126
-    created: "2026-07-03T17:09:25.400582297Z"
+    created: "2026-07-03T18:11:52.395098795Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 19343e9f3c54797a63f617f64b10f091e892073faef773255c62355ba020d19e
@@ -47,7 +47,7 @@ entries:
     version: 1.2.0-alpha-c007371.126
   - apiVersion: v2
     appVersion: 1.2.0-alpha-baeb1a0.116
-    created: "2026-07-03T17:09:25.399494447Z"
+    created: "2026-07-03T18:11:52.394476131Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 43c0628179cdda79b8b74dbf5b8fab1341f0474aabda2585f2e76f4de4ca5439
@@ -58,7 +58,7 @@ entries:
     version: 1.2.0-alpha-baeb1a0.116
   - apiVersion: v2
     appVersion: 1.2.0-alpha-a39764f.153
-    created: "2026-07-03T17:09:25.398484298Z"
+    created: "2026-07-03T18:11:52.393828723Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 14a54b53ea38f0375e3d8a8c2933c1d3839e1c55057448b8b44c8f81a59eae0c
@@ -69,7 +69,7 @@ entries:
     version: 1.2.0-alpha-a39764f.153
   - apiVersion: v2
     appVersion: 1.2.0-alpha-9d1469e.142
-    created: "2026-07-03T17:09:25.397439703Z"
+    created: "2026-07-03T18:11:52.393126651Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 982993919dcbabf260d2a60513455825e7913dba6e9c011d602c6fe70bc667c6
@@ -80,7 +80,7 @@ entries:
     version: 1.2.0-alpha-9d1469e.142
   - apiVersion: v2
     appVersion: 1.2.0-alpha-8ca7186.166
-    created: "2026-07-03T17:09:25.396286205Z"
+    created: "2026-07-03T18:11:52.392384225Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 2e753d0e7b90beea21123237e5e287c8f51d8027f632eb85a4e17fc4768df9a4
@@ -90,8 +90,19 @@ entries:
     - https://charts.promethix.dev/promethix-cloudflare-tunnel-operator-1.2.0-alpha-8ca7186.166.tgz
     version: 1.2.0-alpha-8ca7186.166
   - apiVersion: v2
+    appVersion: 1.2.0-alpha-7b451db.169
+    created: "2026-07-03T18:11:52.391519171Z"
+    description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
+      Tunnel.
+    digest: 4583c10969adbce61ff6f6f683d4a4d985a3164814acb7839c7c30d5b584cf4c
+    name: promethix-cloudflare-tunnel-operator
+    type: application
+    urls:
+    - https://charts.promethix.dev/promethix-cloudflare-tunnel-operator-1.2.0-alpha-7b451db.169.tgz
+    version: 1.2.0-alpha-7b451db.169
+  - apiVersion: v2
     appVersion: 1.2.0-alpha-7608d64.122
-    created: "2026-07-03T17:09:25.395494034Z"
+    created: "2026-07-03T18:11:52.390827665Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 95a365e6a3452695e6db2e69ee2d4133fd50eedc4c5ce4137156968303da3a1e
@@ -102,7 +113,7 @@ entries:
     version: 1.2.0-alpha-7608d64.122
   - apiVersion: v2
     appVersion: 1.2.0-alpha-7292ff5.119
-    created: "2026-07-03T17:09:25.394760099Z"
+    created: "2026-07-03T18:11:52.390110709Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 73e47b3b87714fb82ab738a7e4f562edc8cd347ef8a8049783393a1912c3476a
@@ -113,7 +124,7 @@ entries:
     version: 1.2.0-alpha-7292ff5.119
   - apiVersion: v2
     appVersion: 1.2.0-alpha-6ef1d07.129
-    created: "2026-07-03T17:09:25.394066884Z"
+    created: "2026-07-03T18:11:52.389439945Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 635682ab5912da36eea379d25e28fc0636176a78df4d32e0407bbc792f710abb
@@ -124,7 +135,7 @@ entries:
     version: 1.2.0-alpha-6ef1d07.129
   - apiVersion: v2
     appVersion: 1.2.0-alpha-63b384a.132
-    created: "2026-07-03T17:09:25.393216879Z"
+    created: "2026-07-03T18:11:52.388706837Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 21bcb612d0f5bb52039559e2f5764994fa9ae63315aee419aa2c223987dc1c10
@@ -135,7 +146,7 @@ entries:
     version: 1.2.0-alpha-63b384a.132
   - apiVersion: v2
     appVersion: 1.2.0-alpha-5dfa1a5.139
-    created: "2026-07-03T17:09:25.391709792Z"
+    created: "2026-07-03T18:11:52.387949167Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: ce84a8b345769723a878a5bbf182f334b8ec150c4057057fc6dab2258d5c2349
@@ -146,7 +157,7 @@ entries:
     version: 1.2.0-alpha-5dfa1a5.139
   - apiVersion: v2
     appVersion: 1.2.0-alpha-5c78364.160
-    created: "2026-07-03T17:09:25.390301939Z"
+    created: "2026-07-03T18:11:52.387110497Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: c1d14e3f5d07a5b496ce525205a98964c3af1b8fcd03fba29efa13c63ad4f982
@@ -157,7 +168,7 @@ entries:
     version: 1.2.0-alpha-5c78364.160
   - apiVersion: v2
     appVersion: 1.2.0-alpha-00a4dc5.156
-    created: "2026-07-03T17:09:25.388703284Z"
+    created: "2026-07-03T18:11:52.385445217Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 9b4db9a77286facb3525c94b64eb3f6b783e64b8f73b90e427bfa7085b899fc8
@@ -168,7 +179,7 @@ entries:
     version: 1.2.0-alpha-00a4dc5.156
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2026-07-03T17:09:25.387607202Z"
+    created: "2026-07-03T18:11:52.383285649Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: e87725e237cd6025a820ab2537d2f220ba77ccfe01cea95bcca0893fcf51c2d8
@@ -179,7 +190,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.1.0-rc3
-    created: "2026-07-03T17:09:25.386595962Z"
+    created: "2026-07-03T18:11:52.381920949Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 5dd050f5a51ae3452a42d227414eafdfaa220058813c974ddf006407e36e3cc7
@@ -190,7 +201,7 @@ entries:
     version: 1.1.0-rc3
   - apiVersion: v2
     appVersion: 1.1.0-rc2
-    created: "2026-07-03T17:09:25.385688245Z"
+    created: "2026-07-03T18:11:52.380351426Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 4f007fe138e40cb94159573b52aaa447907f8634d6f418807e4f223677ee9015
@@ -201,7 +212,7 @@ entries:
     version: 1.1.0-rc2
   - apiVersion: v2
     appVersion: 1.1.0-rc1
-    created: "2026-07-03T17:09:25.384683668Z"
+    created: "2026-07-03T18:11:52.379398875Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 0f7e6166ac46c090a5718160e4f9092452d4333bf25fe1e6b49666589a79f095
@@ -212,7 +223,7 @@ entries:
     version: 1.1.0-rc1
   - apiVersion: v2
     appVersion: 1.1.0-alpha-fd1cbda.86
-    created: "2026-07-03T17:09:25.383978742Z"
+    created: "2026-07-03T18:11:52.378687668Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: e16a8b4f97d06f3b3a006e7d8038b299590c4a6ea97c737a3d51aa4c1f0e6cae
@@ -223,7 +234,7 @@ entries:
     version: 1.1.0-alpha-fd1cbda.86
   - apiVersion: v2
     appVersion: 1.1.0-alpha-fce68aa.92
-    created: "2026-07-03T17:09:25.383303893Z"
+    created: "2026-07-03T18:11:52.377788782Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: bcc93e0a6e36038b18f56ce7aee215dff8d62e15d7e9c3ea6a5803daa77d2049
@@ -234,7 +245,7 @@ entries:
     version: 1.1.0-alpha-fce68aa.92
   - apiVersion: v2
     appVersion: 1.1.0-alpha-fb2dfe8.62
-    created: "2026-07-03T17:09:25.382618276Z"
+    created: "2026-07-03T18:11:52.376534681Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 92bc3891ab3b3f9f50b930470b5f7a97fab433216d7f2a3e9ae6aa1ee9cf605c
@@ -245,7 +256,7 @@ entries:
     version: 1.1.0-alpha-fb2dfe8.62
   - apiVersion: v2
     appVersion: 1.1.0-alpha-ef0b46d.95
-    created: "2026-07-03T17:09:25.381984408Z"
+    created: "2026-07-03T18:11:52.375695978Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 817230c14485600a427c1a123e992ce3d6af754d6901595e03514497e9e9f746
@@ -256,7 +267,7 @@ entries:
     version: 1.1.0-alpha-ef0b46d.95
   - apiVersion: v2
     appVersion: 1.1.0-alpha-e764b5e.70
-    created: "2026-07-03T17:09:25.381199673Z"
+    created: "2026-07-03T18:11:52.374919352Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 998354ff6e77892fa73ee55d00a092bddee76b6b96537a45697482f48f6b624f
@@ -267,7 +278,7 @@ entries:
     version: 1.1.0-alpha-e764b5e.70
   - apiVersion: v2
     appVersion: 1.1.0-alpha-e1a81b1.72
-    created: "2026-07-03T17:09:25.380506965Z"
+    created: "2026-07-03T18:11:52.374193478Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 424e39fed7bc9f9cf074c1d11a008e21da57eb786e319c8043da4f9e02c69f1c
@@ -278,7 +289,7 @@ entries:
     version: 1.1.0-alpha-e1a81b1.72
   - apiVersion: v2
     appVersion: 1.1.0-alpha-e01f4bd.89
-    created: "2026-07-03T17:09:25.379713722Z"
+    created: "2026-07-03T18:11:52.373279687Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 43a2bd8ce234d2193d8abecf64387af92182267eeb92422a72c05c0516c0165f
@@ -289,7 +300,7 @@ entries:
     version: 1.1.0-alpha-e01f4bd.89
   - apiVersion: v2
     appVersion: 1.1.0-alpha-7bde1a0.100
-    created: "2026-07-03T17:09:25.378953411Z"
+    created: "2026-07-03T18:11:52.37187003Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: c918d34d0af16830678cda5109068f47b87234dc66e766b56687370a74d76df6
@@ -300,7 +311,7 @@ entries:
     version: 1.1.0-alpha-7bde1a0.100
   - apiVersion: v2
     appVersion: 1.1.0-alpha-7184970.63
-    created: "2026-07-03T17:09:25.378125232Z"
+    created: "2026-07-03T18:11:52.370860063Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 78c45936b104120efe68803b6b889457499812e5004c8159562802f10f78fa16
@@ -311,7 +322,7 @@ entries:
     version: 1.1.0-alpha-7184970.63
   - apiVersion: v2
     appVersion: 1.1.0-alpha-6535f91.75
-    created: "2026-07-03T17:09:25.376737749Z"
+    created: "2026-07-03T18:11:52.370083665Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 9997a3cd0f1eb8eaa2d0f96e0e93e024f009235a972967f06308cd436fa3f960
@@ -322,7 +333,7 @@ entries:
     version: 1.1.0-alpha-6535f91.75
   - apiVersion: v2
     appVersion: 1.1.0-alpha-3253780.146
-    created: "2026-07-03T17:09:25.37521701Z"
+    created: "2026-07-03T18:11:52.367953019Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 0f78afa710f308f713cb211d3c94289d67ac1ba50d6ae482a09bdc1a098cc444
@@ -333,7 +344,7 @@ entries:
     version: 1.1.0-alpha-3253780.146
   - apiVersion: v2
     appVersion: 1.1.0-alpha-3253780.104
-    created: "2026-07-03T17:09:25.374301295Z"
+    created: "2026-07-03T18:11:52.366067406Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 2b973c8ed7a190f3f01c00ac144fc61b90fb410880401c93d3e72b2b46c6f813
@@ -344,7 +355,7 @@ entries:
     version: 1.1.0-alpha-3253780.104
   - apiVersion: v2
     appVersion: 1.1.0-alpha-03db40c.82
-    created: "2026-07-03T17:09:25.373351489Z"
+    created: "2026-07-03T18:11:52.365082994Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: ae77753df1875ed1597a5efa0aeac6312b69f7ff5e442b43a0a0e234eb3f50e2
@@ -355,7 +366,7 @@ entries:
     version: 1.1.0-alpha-03db40c.82
   - apiVersion: v2
     appVersion: 1.0.49
-    created: "2026-07-03T17:09:25.372521362Z"
+    created: "2026-07-03T18:11:52.363353898Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 94ea1db5311f0b90ff1243e66332936b0323dae073789670be7638970e1c8552
@@ -366,7 +377,7 @@ entries:
     version: 1.0.49
   - apiVersion: v2
     appVersion: 1.0.43
-    created: "2026-07-03T17:09:25.371891245Z"
+    created: "2026-07-03T18:11:52.362763498Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: d5d51e10d238a78570af24b21a42ca057e0354e61f321aa51b3ed0fe9e4cb2ff
@@ -377,7 +388,7 @@ entries:
     version: 1.0.43
   - apiVersion: v2
     appVersion: 1.0.39
-    created: "2026-07-03T17:09:25.371301348Z"
+    created: "2026-07-03T18:11:52.362033255Z"
     description: Reconciles TunnelPublicHostname intent into a remotely managed Cloudflare
       Tunnel.
     digest: 2785f57f922277a696f1c230752353722538c5f9345f4921ac78ba059feb48cf
@@ -386,4 +397,4 @@ entries:
     urls:
     - https://charts.promethix.dev/promethix-cloudflare-tunnel-operator-1.0.39.tgz
     version: 1.0.39
-generated: "2026-07-03T17:09:25.370463513Z"
+generated: "2026-07-03T18:11:52.360942803Z"
